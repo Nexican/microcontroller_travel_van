@@ -5,9 +5,9 @@ TBA.
 - Ion battery reading
 - Security system doors
 
-TODO:
-✅ Buy van
-❌ Strip van empty
-❌ Convert to camper
-❌ Buy solar panels
-❌ Code controller and buy microcontroller
+TODO: <br/>
+✅ Buy van <br/>
+❌ Strip van empty <br/>
+❌ Convert to camper <br/>
+❌ Buy solar panels <br/>
+❌ Code controller and buy microcontroller <br/>
